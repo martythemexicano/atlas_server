@@ -1,0 +1,18 @@
+﻿[2022.11.13-08.07.18:094][  0]Log file open, 11/13/22 00:07:18
+[2022.11.13-08.07.18:095][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2022.11.13-08.07.18:095][  0]LogMemory: Process Physical Memory: 61.92 MB used, 61.92 MB peak
+[2022.11.13-08.07.18:095][  0]LogMemory: Process Virtual Memory: 59.36 MB used, 59.49 MB peak
+[2022.11.13-08.07.18:095][  0]LogMemory: Physical Memory: 265104.28 MB used, 393108.72 MB total
+[2022.11.13-08.07.18:095][  0]LogMemory: Virtual Memory: 296.05 MB used, 134217728.00 MB total
+[2022.11.13-08.07.18:547][  0]ATLAS Version: 553.1 (Rev. 128614)
+[2022.11.13-08.07.18:547][  0]PID: 18636
+[2022.11.13-08.07.55:084][  0]Primal Game Data Took 35.32 seconds
+[2022.11.13-08.07.57:723][  0]SteamSocketsOpenSource: gethostname failed ()
+[2022.11.13-08.08.08:532][  0]Network range scales set to: 48 start, 77 end, 0.440000 endscale
+[2022.11.13-08.08.09:255][  0]Server: "Fantastic Doubloon" has successfully started!
+[2022.11.13-08.08.09:395][  0]Commandline: Blackwood?SessionName="Fantastic Doubloon"?AltSaveDirectoryName=ac1d4512-2780-4af7-ae87-ecfb3c8b7d5e_A1?ServerAdminPassword=uZNaW05a?MaxPlayers=10?ReservedPlayerSlots=0?RCONEnabled=True?RCONPort=18315?QueryPort=13001?Port=13000?MultiHome=85.190.152.93?MapPlayerLocation=true?SuppressSettlementName=false?SuppressJoinNotifications=false -log -server -culture=en -manualmanagedmods -nitradotest2 -NoCrashDialog -WaveWorksCPUThreads=1 -NoBattlEye -NoSeamlessServer
+[2022.11.13-08.08.09:395][  0]Full Startup: 52.78 seconds (BP compile: 0.00 seconds)
+[2022.11.13-08.08.09:395][  0]Number of cores 28
+[2022.11.13-08.08.13:664][  2]Finished start-up log processing
+[2022.11.13-17.08.54:107][714] - FPlatformMisc::RequestExit(1)
+[2022.11.13-17.08.54:107][714]Log file closed, 11/13/22 09:08:54
